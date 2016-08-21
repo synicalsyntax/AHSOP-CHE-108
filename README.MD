@@ -1,5 +1,7 @@
 # AHSOP CHE 108
 
+![alt text](https://raw.githubusercontent.com/synicalsyntax/AHSOP-CHE108/master/ahsop-che108/images/loading.gif)
+
 [AHSOP CHE 108](http://clin-dump.co.nf/ahsop-che108/) is a collective database of files related to the CHE 108 Introduction to Chemistry course at [California State University, Dominguez Hills (CSUDH)](http://www4.csudh.edu).
 
 The website was developed to aid students from the [California Academy of Math and Science (CAMS)](http://lbcams.schoolloop.com) taking the course as a participant in the [American Honda Science Opportunity Program (AHSOP)](http://www.csudhnews.com/2016/06/honda-science-opportunity/).
