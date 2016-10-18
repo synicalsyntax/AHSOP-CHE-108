@@ -179,7 +179,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       <?php
     }
 } else {
-    if (isset($_POST)) {
 ?>
 <!DOCTYPE HTML>
 <html>
@@ -303,6 +302,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 </html>
 <?
-    }
 }
 ?>
